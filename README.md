@@ -1,2 +1,2 @@
 # EmbeddedCElxtex
-Homeworks from Eltex School
+Домашние задания в Eltex School находятся в папках с соответствующими номерами.
